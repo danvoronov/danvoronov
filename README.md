@@ -1,4 +1,8 @@
-### Hi there 👋
+- 🔭 I’m currently working on Babyi Yar history bot.
+- 🌱 I’m currently learning Node.js, Deno, Soft arch.
+- 👯 I’m looking to collaborate on AI reading books.
+
+- 📫 How to reach me: [telegram](https://t.me/dan_voronov)
 
 <!--
 **danvoronov/danvoronov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
