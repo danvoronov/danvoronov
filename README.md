@@ -1,10 +1,22 @@
 How to reach me: [telegram](https://t.me/dan_voronov)
 
-- 🔭 I’m currently working on Babyi Yar history bot.
-- 🌱 I’m currently learning Node.js, Deno, Soft arch.
-- 👯 I’m looking to collaborate on AI reading books.
+- 🔭 I’m currently working on __Babyi Yar history bot__.
+- 🌱 I’m currently learning __Node.js, Deno, Soft arch__.
+- 👯 I’m looking to collaborate on __AI reading books__.
+
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 
 
+## Projects
+
+__Kyiv news parser__ [code](https://github.com/danvoronov/cityNewsParser)
+🧰 Node.js with NLP libs, RSS Aggregation, Telegram Bot API, Heroku & GitHub deploy.
+
+We made an automation that collect rus lang news from a variety of sources (google news, RSS feeds, telegram publics) for a given city. Then news with certain keywords are removed from DB. To the rest are assigned a rating of their constructiveness (sentiment analysis). News with a high rating are automatically published to Telegram thru bot.
+
+
+## Lang&tech usage history
 
 | Angular | GAS | Python ML | Node.js |  | TypeScript
 | ------ | ------ | ------ | ------ |------ |------ |
