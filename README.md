@@ -1,13 +1,10 @@
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/danvoronov) some my solution in [this repo](https://github.com/danvoronov/codewars_js_solutions)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/danvoronov)   some my solution in [this repo](https://github.com/danvoronov/codewars_js_solutions)
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://danvoronov.medium.com/)
 
 
 How to reach me:
-
-<p align="center">
 <a href="https://t.me/dan_voronov"><img src="https://img.shields.io/badge/-@dan_voronov-0088cc?style=flat&logo=Telegram&logoColor=white"/></a>
-</p>
 
 - 🔭 I’m currently working on __Babyi Yar history bot__.
 - 🌱 I’m currently learning __Node.js, Deno, Soft arch__.
