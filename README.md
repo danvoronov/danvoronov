@@ -3,7 +3,11 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://danvoronov.medium.com/)
 
 
-How to reach me: [telegram](https://t.me/dan_voronov)
+How to reach me:
+
+<p align="center">
+<a href="https://t.me/dan_voronov"><img src="https://img.shields.io/badge/-@dan_voronov-0088cc?style=flat&logo=Telegram&logoColor=white"/></a>
+</p>
 
 - 🔭 I’m currently working on __Babyi Yar history bot__.
 - 🌱 I’m currently learning __Node.js, Deno, Soft arch__.
