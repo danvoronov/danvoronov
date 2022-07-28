@@ -4,8 +4,9 @@ How to reach me: [telegram](https://t.me/dan_voronov)
 - 🌱 I’m currently learning __Node.js, Deno, Soft arch__.
 - 👯 I’m looking to collaborate on __AI reading books__.
 
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+
 
 
 ## Projects
