@@ -1,12 +1,13 @@
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/danvoronov) some my solution in [this repo](https://github.com/danvoronov/codewars_js_solutions)
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://danvoronov.medium.com/)
+
+
 How to reach me: [telegram](https://t.me/dan_voronov)
 
 - 🔭 I’m currently working on __Babyi Yar history bot__.
 - 🌱 I’m currently learning __Node.js, Deno, Soft arch__.
 - 👯 I’m looking to collaborate on __AI reading books__.
-
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-
 
 
 ## Projects
@@ -19,9 +20,9 @@ We made an automation that collect rus lang news from a variety of sources (goog
 
 ## Lang&tech usage history
 
-| Angular | GAS | Python ML | Node.js |  | TypeScript
+| Angular | GAS | Python ML | Node.js |  | Deno
 | ------ | ------ | ------ | ------ |------ |------ |
-| MVC | Telegram API | Flutter | Heroku | ⚙️MEAN | Deno
+| MVC | Telegram API | Flutter | Heroku | ⚙️MEAN | Netlify
 | 17 | 18 | 19 | 20 | 21 |22 
 
 | Basic | Turbo Pascal | C++ | HTML CSS | PHP SQL | DirectX WinAPI | JavaScript | | jQuery | 
