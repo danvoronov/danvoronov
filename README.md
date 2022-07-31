@@ -13,7 +13,7 @@ How to reach me:
 - 👯 I’m looking to collaborate on __AI reading books__.
 
 
-## Resent Project
+## Recent Project
 
 __Kyiv news parser__ [repo](https://github.com/danvoronov/cityNewsParser)
 
