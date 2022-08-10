@@ -2,11 +2,11 @@
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)  &nbsp;  rn i'm using Node. all my [tech usage history](TECH.md).
 
-## check out
+## check out my
 
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=plastic&logo=codewars&logoColor=grey)](https://www.codewars.com/users/danvoronov)  &nbsp; some my solutions in [this repo](https://github.com/danvoronov/codewars_js_solutions).
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=plastic&logo=codewars&logoColor=grey)](https://www.codewars.com/users/danvoronov)  &nbsp; some solutions in [this my repo](https://github.com/danvoronov/codewars_js_solutions).
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white)](https://danvoronov.medium.com/)  &nbsp; my articles about [metasearch](https://danvoronov.medium.com/%D0%BC%D0%B5%D1%82%D0%B0%D0%BF%D0%BE%D0%B8%D1%81%D0%BA-%D0%B8-%D0%B7%D0%B0%D1%87%D0%B5%D0%BC-%D0%BE%D0%BD-%D0%BD%D1%83%D0%B6%D0%B5%D0%BD-bb13680b299e) and [self-description](https://danvoronov.medium.com/%D0%B4%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%8C-index-bf116ce9cd12).
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white)](https://danvoronov.medium.com/)  &nbsp; articles about [metasearch](https://danvoronov.medium.com/%D0%BC%D0%B5%D1%82%D0%B0%D0%BF%D0%BE%D0%B8%D1%81%D0%BA-%D0%B8-%D0%B7%D0%B0%D1%87%D0%B5%D0%BC-%D0%BE%D0%BD-%D0%BD%D1%83%D0%B6%D0%B5%D0%BD-bb13680b299e) and [self-description](https://danvoronov.medium.com/%D0%B4%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%8C-index-bf116ce9cd12).
 
 ## About
 
