@@ -10,18 +10,18 @@
 
 ## About
 
+- 🔭 I’m currently working on >> __Babyi Yar history bot__.
+- 🌱 I’m currently learning >> __Node.js, Deno, Soft arch__.
+- 👯 I’m looking to collaborate on >> __AI reading books__.
+
 How to reach me:
 
 <a href="https://t.me/dan_voronov"><img src="https://img.shields.io/badge/-@dan_voronov-0088cc?style=flat&logo=Telegram&logoColor=white"/></a>
 
-- 🔭 I’m currently working on __Babyi Yar history bot__.
-- 🌱 I’m currently learning __Node.js, Deno, Soft arch__.
-- 👯 I’m looking to collaborate on __AI reading books__.
-
 
 # Recent Project
 
-__Kyiv news parser__ [repo](https://github.com/danvoronov/cityNewsParser)
+__Kyiv news parser__ >> [repo](https://github.com/danvoronov/cityNewsParser)
 
 🧰 Node.js with NLP libs, RSS Aggregation, Telegram Bot API, Heroku & GitHub deploy.
 
