@@ -1,12 +1,13 @@
 year|| lang| exp|
 |------ |------ |------ |------ |
+| 2024 | | JS with LLMs|  
+| 2023 | Cyclic.sh | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)  JS with LLMs|  ⭐⭐⭐⭐⭐⭐
 | 2022 | ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) | TS &nbsp; ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=plastic&logo=deno&logoColor=white) | ⭐⭐
 | 2021 | ⚙️MEAN | | 
 | 2020 | ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white)| JS ES6+ &nbsp; ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) | ⭐⭐⭐⭐⭐⭐
 | 2019 | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) | |⭐ 
 | 2019 | ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=plastic&logo=jupyter&logoColor=white) | ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) | ⭐⭐⭐
 | 2018 | Telegram API | Google Apps Script (GAS) | ⭐⭐⭐⭐
-| 2017 | MVC | ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) |⭐ 
 
 # early
 ||||||||||
