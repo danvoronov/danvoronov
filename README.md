@@ -1,6 +1,6 @@
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)   ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)    ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white)    ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)  &nbsp;  rn i'm using Node. all my [tech usage history](TECH.md).
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)  &nbsp;  rn i'm using Node-js. all my [tech usage history](TECH.md).
 
 ## check out my
 
@@ -10,9 +10,10 @@
 
 ## About
 
-- 🔭 I’m currently working on >> __Babyi Yar history bot__.
-- 🌱 I’m currently learning >> __Node.js, Deno, Soft arch__.
-- 👯 I’m looking to collaborate on >> __AI reading books__.
+- 🔭 I’m currently working on >> __Walkbots tours telegram bots platform__.
+- 🌱 I’m currently learning >> __LLMs for coding__.
+- 💬 Ask me about >> __LLMs for coding__.
+- 👯 I’m looking to collaborate on >> __non-programming tasks such as organizing my seminars and promoting my bots__.
 
 How to reach me:
 
@@ -21,11 +22,11 @@ How to reach me:
 
 # Recent Project
 
-__Kyiv news parser__ >> [repo](https://github.com/danvoronov/cityNewsParser)
+__Airtable_api_full_backuper__ >> [repo](https://github.com/danvoronov/airtable_api_full_backuper)
 
-🧰 Node.js with NLP libs, RSS Aggregation, Telegram Bot API, Heroku & GitHub deploy.
+🧰 write in plain node.js 
 
-We made an automation that collect rus lang news from a variety of sources (google news, RSS feeds, telegram publics) for a given city. Then news with certain keywords are removed from DB. To the rest are assigned a rating of their constructiveness (sentiment analysis). News with a high rating are automatically published to Telegram thru bot.
+Backs up the record data (json, csv), table schemas and attachments. Does not back up interfaces and automations. This node.js script performs a full or partial backup of Airtable bases using the Airtable API.
 
 
 <!--
