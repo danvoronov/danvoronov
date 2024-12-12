@@ -12,6 +12,6 @@ year|| lang| exp|
 # early
 ||||||||||
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |  ------ | ------ | 
-| Basic | Turbo Pascal | C++ | HTML CSS | PHP SQL | DirectX WinAPI | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) | | ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) | 
-||Asm | Visual Basic | Visual C++ | Delphi |  | ⚙️LAMP | ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) | jQuery UI |
+| Basic | Turbo Pascal | C++ | HTML CSS | PHP SQL |  | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) | | ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) | 
+||Asm | Visual Basic | Visual C++ | Delphi | DirectX WinAPI | ⚙️LAMP | ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) | jQuery UI |
 | 97 | 99 | 2000 |01 |02 |03 |04 | 08 | 10 |
