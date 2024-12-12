@@ -1,6 +1,6 @@
 year|| lang| exp|
 |------ |------ |------ |------ |
-| 2024 | | JS with LLMs|  
+| 2024 | Vercel | JS with LLMs |  
 | 2023 | Cyclic.sh | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)  JS with LLMs|  ⭐⭐⭐⭐⭐⭐
 | 2022 | ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) | TS &nbsp; ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=plastic&logo=deno&logoColor=white) | ⭐⭐
 | 2021 | ⚙️MEAN | | 
